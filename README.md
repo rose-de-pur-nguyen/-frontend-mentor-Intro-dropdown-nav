@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/rose-de-pur-nguyen/-frontend-mentor-Intro-dropdown-nav.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://rose-de-pur-nguyen.github.io/-frontend-mentor-Intro-dropdown-nav/)
 
 ## My process
 
